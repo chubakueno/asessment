@@ -13,6 +13,8 @@
 		7F459A3721284AB50089F28F /* WorldAtlas.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7F459A3521284AB50089F28F /* WorldAtlas.xcdatamodeld */; };
 		7F459A3921284AB60089F28F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F459A3821284AB60089F28F /* Assets.xcassets */; };
 		7F459A3C21284AB60089F28F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F459A3A21284AB60089F28F /* LaunchScreen.storyboard */; };
+		7F459A44212851960089F28F /* OnBoardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F459A43212851960089F28F /* OnBoardViewController.swift */; };
+		7F459A46212856040089F28F /* CountriesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F459A45212856040089F28F /* CountriesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		7F459A3821284AB60089F28F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7F459A3B21284AB60089F28F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7F459A3D21284AB60089F28F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7F459A43212851960089F28F /* OnBoardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoardViewController.swift; sourceTree = "<group>"; };
+		7F459A45212856040089F28F /* CountriesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountriesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				7F459A3A21284AB60089F28F /* LaunchScreen.storyboard */,
 				7F459A3D21284AB60089F28F /* Info.plist */,
 				7F459A3521284AB50089F28F /* WorldAtlas.xcdatamodeld */,
+				7F459A43212851960089F28F /* OnBoardViewController.swift */,
+				7F459A45212856040089F28F /* CountriesViewController.swift */,
 			);
 			path = WorldAtlas;
 			sourceTree = "<group>";
@@ -140,6 +146,8 @@
 			files = (
 				7F459A3121284AB50089F28F /* ViewController.swift in Sources */,
 				7F459A2F21284AB50089F28F /* AppDelegate.swift in Sources */,
+				7F459A44212851960089F28F /* OnBoardViewController.swift in Sources */,
+				7F459A46212856040089F28F /* CountriesViewController.swift in Sources */,
 				7F459A3721284AB50089F28F /* WorldAtlas.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
